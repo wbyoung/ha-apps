@@ -1,8 +1,16 @@
-## Changes
+## 💡 Features
+
+- #1 Add log rotation @wbyoung
 
 ## 🐛 Bug Fixes
 
-- https://github.com/wbyoung/ha-apps/commit/d71481f27edb21128612418e4a9126ff68a39de6 Fix image URL @wbyoung
+- #4 Fix image URL @wbyoung
+
+## 🧰 Chore
+
+- #3 Fix build shield @wbyoung
+- #5 Cleanup config @wbyoung
+- #6 Fix shields for beta versions @wbyoung
 
 ## Contributors
 @wbyoung
